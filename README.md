@@ -1,4 +1,4 @@
-# Retakes Standard Allocator
+# Retakes Standard Weapon Allocator
 This is an edited version of the standard_allocator for the retakes.smx plugin by splewis.
 
 Link to his plugin: https://github.com/splewis/csgo-retakes.
